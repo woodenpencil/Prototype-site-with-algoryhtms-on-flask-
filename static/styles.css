@@ -1,0 +1,39 @@
+body{
+	background: #9ab3b5;
+}
+div.main{
+	text-align: center;
+	margin: auto;
+	background: white;
+	width: 1000px;
+	height: 2000px;
+}
+#main_replic{
+	font-size: 200%;
+	color: #3f560f;
+}
+div.section{
+	text-align: left;
+	border-style: solid;
+	border-radius: 20%;
+	border-color: black;
+	border-width: 3px;
+	float: left;
+	width: 494px;
+	background: #b8bfaa;
+	padding-bottom: 10px;
+}
+#section_titles{
+	text-align: center;
+	font-size: 160%;
+	color: #3f560f;
+}
+#subsection_titles{
+	font-size: 140%;
+	color: #3f560f;	
+}
+#about{
+	position: relative;
+	bottom: 0;
+	right: 0;
+}
